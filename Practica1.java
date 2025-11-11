@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practica0 {
+public class Practica1 {
     public static void main ( String args[] )
     {
         String shortmsg = "Short Message";
